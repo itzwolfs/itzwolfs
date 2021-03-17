@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @itzwolfs
+- 👀 I’m interested in biogenetica aplicada em informatica
+- 🌱 I’m currently learning Python Basico criação de bots
+- 💞️ I’m looking to collaborate on Pesquisas de composições geneticas via PY, C+ e Java
+- 📫 How to reach me  pode adicionar pelo telegram está anexado ao ead
